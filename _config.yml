@@ -2,7 +2,8 @@ author:
   name: Stu Coston
   email: stu.coston@gmail.com
 title: life captured
-name: SC Media
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
 collections:
   - index:
       path: /
@@ -16,19 +17,18 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8882972148712724
-  brandStrength: 0.9403935801237822
-  rhythmicContrast: 0.9223266385961324
+  saturation: 0.6648746
+  brandStrength: 0.5143369
+  lightness: 0.1683737
   brandColors:
     - '#703030'
     - '#2F343B'
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
-  lightness: 0.1683736566919833
-typography_spectrum: 0.1688825688324869
+  rhythmicContrast: 0.6326165
+typography_spectrum: 0.5752688
 layout_spectrum: 0
 analytics:
   twitter: '@stucoston'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
+name: SC Media
