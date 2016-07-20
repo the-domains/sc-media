@@ -11,6 +11,8 @@ color:
     - '#E3CDA4'
     - '#C77966'
 layout_spectrum: 0.8432011008262634
+analytics:
+  twitter: '@stucoston'
 author:
   name: Stu Coston
   email: stu.coston@gmail.com
