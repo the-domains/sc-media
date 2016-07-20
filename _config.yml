@@ -1,4 +1,3 @@
-layout_spectrum: 0.8432011008262634
 typography_spectrum: 0.16888256883248687
 color:
   brandStrength: 0.9403935801237822
@@ -11,4 +10,11 @@ color:
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
+layout_spectrum: 0.8432011008262634
+author:
+  name: Stu Coston
+  email: stu.coston@gmail.com
 name: SC Media
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
+title: life captured
