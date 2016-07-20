@@ -4,7 +4,7 @@
         <description><![CDATA[life captured]]></description>
         <link>https://thegrid.ai/sc-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 19:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 20:09:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sc-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/sc-media/b719d859-2555-4556-af5e-8b79fed5db6c/index.html</link>
             <guid isPermaLink="false">b719d859-2555-4556-af5e-8b79fed5db6c</guid>
             <pubDate>Wed, 20 Jul 2016 12:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/166fe21344886478a930ef995e435dd2/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd311c75c-e68f-4a3d-83ea-a7c2ad137cf6.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/sc-media/c0e36801-04a0-458c-b40e-5960276f6c7b/index.html</link>
-            <guid isPermaLink="false">c0e36801-04a0-458c-b40e-5960276f6c7b</guid>
-            <pubDate>Wed, 20 Jul 2016 12:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
