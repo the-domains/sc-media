@@ -4,7 +4,7 @@
         <description><![CDATA[SC Media: life captured]]></description>
         <link>https://thegrid.ai/sc-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 12:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 12:40:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sc-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,13 +22,6 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b064cdf20ba39f19dba90fe5778fdad/croprotate.jpg?cropheight=6000&cropwidth=4001&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8bcdd446-3692-4054-880c-8075ba944a4d.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/sc-media/bf00e6da-f6f6-4389-a5fe-25f6bbd1bb21/index.html</link>
-            <guid isPermaLink="false">bf00e6da-f6f6-4389-a5fe-25f6bbd1bb21</guid>
-            <pubDate>Wed, 20 Jul 2016 12:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d1ca8526927018caf6bf612a0c3386f/croprotate.jpg?cropheight=3902&cropwidth=5834&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb29aec3c-1d38-41c0-b351-deb74f7d860b.jpg&x=0&y=0">]]></description>
             <link>https://thegrid.ai/sc-media/b719d859-2555-4556-af5e-8b79fed5db6c/index.html</link>
             <guid isPermaLink="false">b719d859-2555-4556-af5e-8b79fed5db6c</guid>
@@ -40,27 +33,6 @@
             <link>https://thegrid.ai/sc-media/c0e36801-04a0-458c-b40e-5960276f6c7b/index.html</link>
             <guid isPermaLink="false">c0e36801-04a0-458c-b40e-5960276f6c7b</guid>
             <pubDate>Wed, 20 Jul 2016 12:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb15509e604b934d7375ebbd0dce0f4e/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8d8e0124-2715-431d-a052-e78deee48aaf.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/sc-media/903a1632-9350-459f-8581-1d0760ff6dab/index.html</link>
-            <guid isPermaLink="false">903a1632-9350-459f-8581-1d0760ff6dab</guid>
-            <pubDate>Wed, 20 Jul 2016 12:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3cadfdf497acff9328a998e92c1279c3/croprotate.jpg?cropheight=6000&cropwidth=4001&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7c1bb1a0-a709-4868-82e6-3088aca7b297.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/sc-media/5a13f590-09c0-4a65-8c2c-4e2b5c80b1ce/index.html</link>
-            <guid isPermaLink="false">5a13f590-09c0-4a65-8c2c-4e2b5c80b1ce</guid>
-            <pubDate>Wed, 20 Jul 2016 12:09:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72c7269c3a96fd61d2eff8553c34f9fb/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F843bb6dc-0e1a-4bc9-ac6f-8274ebc8b18d.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/sc-media/6c0746a6-9b2e-41bf-a9f4-cdca7f8b2934/index.html</link>
-            <guid isPermaLink="false">6c0746a6-9b2e-41bf-a9f4-cdca7f8b2934</guid>
-            <pubDate>Wed, 20 Jul 2016 12:08:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
