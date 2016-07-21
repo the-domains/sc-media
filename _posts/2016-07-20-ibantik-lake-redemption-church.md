@@ -61,15 +61,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=eFxuXP5b_FM'
 title: Ibantik Lake - Redemption Church
-datePublished: '2016-07-20T12:18:00.698Z'
-dateModified: '2016-07-20T12:13:38.571Z'
-starred: false
+datePublished: '2016-07-21T05:00:55.781Z'
+dateModified: '2016-07-21T05:00:55.314Z'
 sourcePath: _posts/2016-07-20-ibantik-lake-redemption-church.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: ibantik-lake-redemption-church/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
