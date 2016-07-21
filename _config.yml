@@ -1,21 +1,6 @@
-author:
-  name: Stu Coston
-  email: stu.coston@gmail.com
-title: life captured
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.5752688
 color:
-  saturation: 0.6917562
+  saturation: 0.7939068
   brandStrength: 0.2867384
   lightness: 0.2759857
   brandColors:
@@ -24,11 +9,37 @@ color:
     - '#9E937D'
     - '#564C43'
     - '#CEAB97'
-  rhythmicContrast: 0.155914
-typography_spectrum: 0.5752688
-layout_spectrum: 0.5806451
+  rhythmicContrast: 0.3243728
+layout_spectrum: 0
 analytics:
   twitter: '@stucoston'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
+author:
+  name: Stu Coston
+  email: stu.coston@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/37530a11-9bf9-4675-abb6-4385988c0bac.tiff
 name: SC Media
+navigation:
+  - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
+    url: 2016-07-21-recent-work.html
+    name: Connect
+    type: content
+  - id: 82e12d13-0175-4e32-ab45-ce8b8569709a
+    url: 2016-07-20-ibantik-lake-redemption-church.html
+    name: Recent Work
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b84d2a4d-5997-4ac9-bef7-13044e678deb.tiff
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: life captured
