@@ -22,6 +22,10 @@ navigation:
     url: 2016-07-20-ibantik-lake-redemption-church.html
     name: Recent Work
     type: content
+  - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
+    url: 2016-07-21-recent-work.html
+    name: Connect
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
 collections:
