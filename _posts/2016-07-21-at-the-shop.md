@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-21T05:13:39.862Z'
+datePublished: '2016-07-21T05:17:41.268Z'
 sourcePath: _posts/2016-07-21-at-the-shop.md
 author: []
 via: {}
-dateModified: '2016-07-21T05:13:39.462Z'
-title: ''
+dateModified: '2016-07-21T05:17:40.598Z'
+title: at the shop
 publisher: {}
-description: at the shop
+description: ''
 starred: true
 inFeed: true
 hasPage: true
@@ -16,5 +16,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-at the shop
+# at the shop
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/831e8e92-310c-4fba-a5e4-4931175728c1.jpg)
