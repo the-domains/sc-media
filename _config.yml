@@ -1,8 +1,29 @@
+typography_spectrum: 0.5752688
+color:
+  saturation: 0.7939068
+  brandStrength: 0.2867384
+  lightness: 0.2759857
+  brandColors:
+    - '#362920'
+    - '#C8C8C0'
+    - '#9E937D'
+    - '#564C43'
+    - '#CEAB97'
+  rhythmicContrast: 0.3243728
+layout_spectrum: 0
+analytics:
+  twitter: '@stucoston'
 author:
   name: Stu Coston
   email: stu.coston@gmail.com
-title: life captured
 name: SC Media
+navigation:
+  - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
+    url: 2016-07-21-recent-work.html
+    name: Recent Work
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
 collections:
   - index:
       path: /
@@ -15,20 +36,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.7939068
-  brandStrength: 0.2867384
-  lightness: 0.2759857
-  brandColors:
-    - '#362920'
-    - '#C8C8C0'
-    - '#9E937D'
-    - '#564C43'
-    - '#CEAB97'
-  rhythmicContrast: 0.3243728
-typography_spectrum: 0.5752688
-layout_spectrum: 0
-analytics:
-  twitter: '@stucoston'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
+title: life captured
