@@ -1,17 +1,16 @@
 ---
 description: Recent Work
-dateModified: '2016-07-21T04:55:29.591Z'
-datePublished: '2016-07-21T04:56:46.974Z'
+dateModified: '2016-07-21T04:59:00.513Z'
+datePublished: '2016-07-21T04:59:00.937Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-21-recent-work.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: recent-work/index.html
+_type: Blurb
 
 ---
 Recent Work
