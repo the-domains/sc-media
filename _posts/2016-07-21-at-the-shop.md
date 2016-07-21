@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-21T05:17:59.012Z'
+datePublished: '2016-07-21T05:19:23.065Z'
 sourcePath: _posts/2016-07-21-at-the-shop.md
 author: []
 via: {}
-dateModified: '2016-07-21T05:17:58.552Z'
+dateModified: '2016-07-21T05:19:22.327Z'
 title: at the shop
 publisher: {}
 description: ''
