@@ -17,11 +17,7 @@ author:
   name: Stu Coston
   email: stu.coston@gmail.com
 name: SC Media
-navigation:
-  - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
-    url: 2016-07-21-recent-work.html
-    name: Recent Work
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
 collections:
