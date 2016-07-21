@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-21T05:19:23.065Z'
+datePublished: '2016-07-21T05:30:20.099Z'
 sourcePath: _posts/2016-07-21-at-the-shop.md
 author: []
 via: {}
-dateModified: '2016-07-21T05:19:22.327Z'
+dateModified: '2016-07-21T05:30:19.556Z'
 title: at the shop
 publisher: {}
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
