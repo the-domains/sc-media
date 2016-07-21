@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-21T04:56:43.343Z'
+datePublished: '2016-07-21T04:57:15.472Z'
 author: []
 via: {}
-dateModified: '2016-07-21T04:56:29.548Z'
+dateModified: '2016-07-21T04:57:15.135Z'
 title: ''
 publisher: {}
 description: in the street
-starred: false
 sourcePath: _posts/2016-07-21-in-the-street.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
