@@ -62,8 +62,8 @@ app_links:
     namespace: google
     type: ios
 title: Ibantik Lake - Redemption Church
-datePublished: '2016-07-21T05:00:55.781Z'
-dateModified: '2016-07-21T05:00:55.314Z'
+datePublished: '2016-07-21T05:18:45.676Z'
+dateModified: '2016-07-21T05:18:45.162Z'
 sourcePath: _posts/2016-07-20-ibantik-lake-redemption-church.md
 hasPage: true
 via: {}
