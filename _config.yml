@@ -22,6 +22,10 @@ navigation:
     url: 2016-07-21-recent-work.html
     name: Connect
     type: content
+  - id: 'http://www.costonmission.com'
+    url: 'http://www.costonmission.com'
+    name: Coston Mission
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
 collections:
