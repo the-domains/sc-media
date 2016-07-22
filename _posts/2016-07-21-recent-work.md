@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-22T03:20:19.967Z'
+datePublished: '2016-07-22T03:33:49.610Z'
 sourcePath: _posts/2016-07-21-recent-work.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T03:20:13.083Z'
+dateModified: '2016-07-22T03:33:48.997Z'
 title: Connect
 publisher: {}
 description: Instagram
