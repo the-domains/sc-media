@@ -1,7 +1,23 @@
-typography_spectrum: 0.5752688
+author:
+  name: Stu Coston
+  email: stu.coston@gmail.com
+title: life captured
+name: SC Media
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6003584
-  brandStrength: 1
+  brandStrength: 0.7293907
   lightness: 0.3763441
   brandColors:
     - '#262626'
@@ -10,36 +26,9 @@ color:
     - '#555555'
     - '#873710'
   rhythmicContrast: 0
+typography_spectrum: 0.5752688
 layout_spectrum: 0.5806451
 analytics:
   twitter: '@stucoston'
-author:
-  name: Stu Coston
-  email: stu.coston@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f34a98-8823-4f1e-9e29-12e60f73654b.jpg
-name: SC Media
-navigation:
-  - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
-    url: 2016-07-21-recent-work.html
-    name: Connect
-    type: content
-  - id: 'http://www.costonmission.com'
-    url: 'http://www.costonmission.com'
-    name: Coston Mission
-    type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2f95625-fd78-4a5b-a75c-7a8a7e997d5d.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: ''
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
