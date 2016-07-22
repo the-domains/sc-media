@@ -16,6 +16,8 @@ analytics:
 author:
   name: Stu Coston
   email: stu.coston@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/75f34a98-8823-4f1e-9e29-12e60f73654b.jpg
 name: SC Media
 navigation:
   - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
@@ -27,7 +29,7 @@ navigation:
     name: Coston Mission
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a581ab95-f871-4e11-abf7-8a205aacd0f3.tiff
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2f95625-fd78-4a5b-a75c-7a8a7e997d5d.jpg
 collections:
   - index:
       path: /
@@ -40,4 +42,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: life captured
+title: ''
