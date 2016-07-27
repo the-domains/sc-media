@@ -23,12 +23,6 @@ navigation:
   - url: www.costonmission.com
     name: Coston Mission
     type: external
-  - id: 8b758305-5506-443f-985b-253e9d56ee4a
-    name: Videos
-    type: content
-  - id: f2fe7f42-2b0b-4bed-8312-ebda7661ee97
-    name: Connect
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2f95625-fd78-4a5b-a75c-7a8a7e997d5d.jpg
 collections:
