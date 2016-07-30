@@ -1,4 +1,4 @@
-typography_spectrum: 0.5752688
+typography_spectrum: 0.7971970837097615
 color:
   saturation: 0.6003584
   brandStrength: 1
@@ -10,7 +10,7 @@ color:
     - '#555555'
     - '#873710'
   rhythmicContrast: 0
-layout_spectrum: 0.5806451
+layout_spectrum: 0.20341819897294044
 analytics:
   twitter: '@stucoston'
 author:
